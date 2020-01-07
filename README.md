@@ -22,5 +22,5 @@ How to run Ubuntu in free Heroku
     ```
     5. Run Bash on heroku!
     ```bash
-    heroku run bash --type=worker 
+    heroku ps:exec 
     ```
